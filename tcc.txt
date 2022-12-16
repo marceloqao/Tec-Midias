@@ -1,3 +1,19 @@
 O documento em questão é apenas um exemplo.
 
 O trabalho deve ser dividido entre os membros do grupo. Criando um arquivo para cada membro.
+
+Vou dividir este arquivo em:
+
+Resumo
+
+Introdução
+
+Capítulo 1
+
+Capítulo 2
+
+Capítulo 3
+
+Conclusão
+
+Referências
