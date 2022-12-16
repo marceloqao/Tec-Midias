@@ -1,1 +1,3 @@
-O documento em questão é apenas um exemplo
+O documento em questão é apenas um exemplo.
+
+O trabalho deve ser dividido entre os membros do grupo. Criando um arquivo para cada membro.
